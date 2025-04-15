@@ -14,13 +14,13 @@ Este diretório contém uma coleção de cheatsheets para comandos Linux organiz
 - [`exiftool`](./exiftool.md) — Lê e edita metadados
 
 ### 🧰 Manipulação de Texto
-- [`grep`](./grep-cheatsheet.md) — Busca padrões
-- [`awk`](./awk-cheatsheet.md) — Processamento por colunas
-- [`sed`](./sed-cheatsheet.md) — Substituição e edição in-place *(a criar)*
-- [`cut`](./cut-cheatsheet.md) — Recorta campos/colunas *(a criar)*
-- [`sort`](./sort-cheatsheet.md) — Ordenação de linhas
-- [`uniq`](./uniq-cheatsheet.md) — Remove duplicatas
-- [`wc`](./wc-cheatsheet.md) — Conta linhas, palavras e bytes
+- [`grep`](./grep.md) — Busca padrões
+- [`awk`](./awk.md) — Processamento por colunas
+- [`sed`](./sed.md) — Substituição e edição in-place *(a criar)*
+- [`cut`](./cut.md) — Recorta campos/colunas *(a criar)*
+- [`sort`](./sort.md) — Ordenação de linhas
+- [`uniq`](./uniq.md) — Remove duplicatas
+- [`wc`](./wc.md) — Conta linhas, palavras e bytes
 
 ### 📥 Extração e Strings
 - [`strings`](./strings.md) — Extrai texto legível de arquivos binários
