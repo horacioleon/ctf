@@ -27,7 +27,7 @@ wc arquivo.txt
 | `wc -w arquivo.txt`   | Conta apenas **palavras**                      |
 | `wc -c arquivo.txt`   | Conta apenas **bytes**                         |
 | `wc -m arquivo.txt`   | Conta apenas **caracteres (UTF-8 aware)**      |
-| `cat arquivo.txt | wc -l` | Conta linhas da saída de outro comando     |
+| `cat arquivo.txt \| wc -l` | Conta linhas da saída de outro comando     |
 
 ---
 
